@@ -31,7 +31,7 @@ public class gamemanager : MonoBehaviour
         }
     }
 
-    private void Star()
+    private void Start()
     {
         NewGame();
     }
